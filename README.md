@@ -1,5 +1,13 @@
 ## Mathematics
 * On the Convergence Parameters of the Prime-Composite Series
+* 2017 OSU Mathematical Contest for Modeling
+
+## Statistics
+* The Time Series Analysis for Passenger Miles Flown in U.K.
+
+## Finance
+* Time Series Analysis of the SABR Model Parameters
+* The Valuation of Cryptocurrency Options
 
 ## 文言
 * 論道集	白左非左
