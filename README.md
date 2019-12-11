@@ -9,6 +9,11 @@
 * Time Series Analysis of the SABR Model Parameters
 * The Valuation of Cryptocurrency Options
 
+## Notes
+* Notes on Art History
+* Notes on Macroeconomic Reading
+* Notes on Mathematical Finance
+
 ## 文言
 * 論道集	白左非左
 * 論道集	大學微言
